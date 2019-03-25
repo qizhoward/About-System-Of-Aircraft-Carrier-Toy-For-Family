@@ -9,22 +9,25 @@
                
                      |
       outside outdoor|预留Reserve
-                     |---|Controller-PCB Board Electricity-Signal Emission 控制器-PCB电路板-信号发射端
-                 |---|   |---|
-             |---|   |   |   |
-             |   |   |       |
-             |       |---|
+                     |---|Controller-Electricity Charging Device 控制器充电装置 
+                 |---|   |---|Controller-PCB Board Electricity-Signal Emission 控制器-PCB电路板-信号发射端
+             |---|   |   |   |-------------------|Helicopter Signal Receive 直升机信号接收
+             |   |   |       |Fine tuning 微调   |-----------|
+             |       |---|                       |           |Feedback state emission 反馈状态 
+                     |   |---|                   |           |Create a circulatory system 创造循环系统                                
+                     |   |   |                   |Aircraft Carrier Signal Receive 航母信号接收器 
+                     |       |                   |-----------|
+                     |                           |           |Feedback state emission 反馈状态 
+                     |                           |           |Create a circulatory system 创造循环系统
+                     |                           |           |
+                     |                           |
+                     |
+                     |If inclube Wireless charging 无线充电
+                     |Carrier deck charges helicopter wirelessly 航母甲板为直升机无线充电
+                     |---|                          
                      |   |---|
                      |   |   |
                      |       |
-                     |
-                     |
-                     |
-                     |
-                     |
-                     |
-                     |
-                     |
                      |
                      |
                      |
