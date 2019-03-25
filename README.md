@@ -9,7 +9,7 @@
                
                      |
       outside outdoor|预留Reserve
-                     |---|Controller Signal Emission
+                     |---|Controller-PCB Board Electricity-Signal Emission
                  |---|   |---|
              |---|   |   |   |
              |   |   |       |
