@@ -13,8 +13,8 @@
                  |---|   |---|Controller-PCB Board Electricity-Signal Emission 控制器-PCB电路板-信号发射端
              |---|   |   |   |-------------------|Helicopter Signal Receive 直升机信号接收
              |   |   |       |Fine tuning 微调   |-----------|
-             |       |---|                       |           |Feedback state emission 反馈状态 
-                     |   |---|                   |           |Create a circulatory system 创造循环系统                                
+             |       |---|                       |           |Feedback state emission 反馈状态
+                     |   |---|                   |           |Create a circulatory system 创造循环系统
                      |   |   |                   |Aircraft Carrier Signal Receive 航母信号接收器 
                      |       |                   |-----------|
                      |                           |           |Feedback state emission 反馈状态 
