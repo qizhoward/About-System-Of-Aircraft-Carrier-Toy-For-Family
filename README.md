@@ -25,13 +25,15 @@
                      |If inclube Wireless charging 无线充电
                      |Carrier deck charges helicopter wirelessly 航母甲板为直升机无线充电
                      |---|                          
-                     |   |---|
-                     |   |   |
-                     |       |
+                     |   |---|Fine tuning reserve 微调预留
+                     |   |   |Helicopter Precision Landing System 直升机精准降落系统(瞄准甲板)
+                     |       |signal analysis　信号分析
+                     |       |Feedback state emission 反馈状态 
+                     |       |Create a circulatory system 创造循环系统
                      |
                      |
                      |
-               
+                  　　　
                                                                                                                    
                                                                                                                    
                                                                                                                    
@@ -46,5 +48,5 @@
                                                                                                                    
                                                                                                        YuPeng
                                                                                                        余　鹏
-                                                                                                2019.03.25 11:05AM
+                                                                                                2019.03.27 09:41AM
                                                                                                                    
