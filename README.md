@@ -1,7 +1,7 @@
 # About-System-Of-Aircraft-Carrier-Toy-For-Family
 关于家庭版航母玩具系统</br>
 －－－－－－－－－－－－－－－－－－－－－－</br>
-      
+
                thanks future
                 ----------
                      |
@@ -32,16 +32,13 @@
                      |       |Create a circulatory system 创造循环系统
                      |
                      |Indoor GPS 室内GPS 
-                     |
-                  　　　
-                                                                                                                   
-               
-                                                                                                                   
+                     |                    
+        
                                                                                                                    
                                            掌上航母,再　　议                                                                        
                                                                                                                    
                                                                                                                    
                                                                                                                    
-                                                                                                       YuPeng
-                                                                                                       余　鹏
-                                                                                                2019.03.29 17:57PM
+                                                                                             YuPeng
+                                                                                             余　鹏
+                                                                                      2019.03.29 17:57PM
