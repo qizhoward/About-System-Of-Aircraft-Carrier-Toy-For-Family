@@ -6,7 +6,7 @@
                 ----------
                      |
                      |
-               
+                     
                      |
       outside outdoor|预留Reserve
                      |---|Controller-Electricity Charging Device 控制器充电装置 
@@ -24,7 +24,7 @@
                      |
                      |If inclube Wireless charging 无线充电
                      |Carrier deck charges helicopter wirelessly 航母甲板为直升机无线充电
-                     |---|                          
+                     |---|     
                      |   |---|Fine tuning reserve 微调预留
                      |   |   |Helicopter Precision Landing System 直升机精准降落系统(瞄准甲板)
                      |       |signal analysis　信号分析
@@ -32,13 +32,10 @@
                      |       |Create a circulatory system 创造循环系统
                      |
                      |Indoor GPS 室内GPS 
-                     |                    
+                     |   
         
-                                                                                                                   
-                                           掌上航母,再　　议                                                                        
-                                                                                                                   
-                                                                                                                   
-                                                                                                                   
+                          
+                                           掌上航母,再　　议       
                                                                                              YuPeng
                                                                                              余　鹏
                                                                                       2019.03.29 17:57PM
