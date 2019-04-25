@@ -6,6 +6,9 @@
                 ----------
                      |
                      |
+                     |
+                     
+                     
                      
                      |
       outside outdoor|预留Reserve
